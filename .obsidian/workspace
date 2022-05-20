@@ -15,58 +15,80 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d4fa83993a0a2e6f",
-    "type": "mobile-drawer",
+    "id": "0cbfe89564fcc822",
+    "type": "split",
     "children": [
       {
-        "id": "9db37173c165a7ee",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "2706ae377f6c93c1",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "9f1f0bf04e84248a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cebc8b5aed9fa90e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "df7278cb5929cd7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "744754a0f9627213",
-    "type": "mobile-drawer",
+    "id": "8b330e08bf084cc1",
+    "type": "split",
     "children": [
       {
-        "id": "9eefc870a505a227",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "98c4129e86e96c46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "588b959677860f88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "316753aed4fc36a3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20220520.md",
+    "2022-05-20.md",
+    "1687adc1.md",
+    "journal/2022-05-20.md",
+    "26c27e62.md",
+    "07bf0ad8.md"
+  ]
 }
