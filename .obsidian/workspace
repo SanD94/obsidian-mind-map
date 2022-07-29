@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "316753aed4fc36a3",
+        "id": "08f81d907ee38ad6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "journal/2022-07-26.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,11 +40,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#R",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journal/2022-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,6 +79,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "7d6051a6b4f14452",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -82,13 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "316753aed4fc36a3",
+  "active": "08f81d907ee38ad6",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20220520.md",
-    "2022-05-20.md",
-    "1687adc1.md",
+    "journal/2022-07-26.md",
+    "journal/2022-06-01.md",
     "journal/2022-05-20.md",
+    "journal/2022-06-03.md",
     "26c27e62.md",
-    "07bf0ad8.md"
+    "202206030953.md",
+    "0ae5916c.md",
+    "6c94d620.md",
+    "ae7ee8fb.md",
+    "5004f07f.md"
   ]
 }
