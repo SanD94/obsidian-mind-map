@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-08-05.md",
+            "file": "journal/2022-08-08.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-08-05.md",
+                "file": "journal/2022-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +95,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08f81d907ee38ad6",
+  "active": "cebc8b5aed9fa90e",
   "lastOpenFiles": [
+    "journal/2022-08-05.md",
     "202208051352.md",
     "journal/2022-08-02.md",
     "journal/2022-08-01.md",
@@ -105,7 +106,6 @@
     "0ae5916c.md",
     "journal/2022-06-01.md",
     "journal/2022-05-20.md",
-    "26c27e62.md",
-    "202206030953.md"
+    "26c27e62.md"
   ]
 }
