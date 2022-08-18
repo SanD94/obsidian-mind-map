@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-08-17.md",
+            "file": "journal/2022-08-18.md",
             "mode": "source",
             "source": false
           }
@@ -40,16 +40,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#R",
+                "query": "tag:#cons",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-08-17.md",
+                "file": "journal/2022-08-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cebc8b5aed9fa90e",
+  "active": "08f81d907ee38ad6",
   "lastOpenFiles": [
+    "journal/2022-08-18.md",
+    "ovgu-project/202208180907.md",
+    "078cdfac.md",
+    "telefondaki-rastgelelik.md",
+    "2c61e00c.md",
+    "3d2a3f83.md",
+    "26c27e62.md",
+    "journal/2022-08-17.md",
     "journal/2022-08-16.md",
-    "journal/2022-08-15.md",
-    "journal/2022-08-12.md",
-    "journal/2022-08-11.md",
-    "journal/2022-08-10.md",
-    "journal/2022-08-05.md",
-    "journal/2022-08-08.md",
-    "journal/2022-08-02.md",
-    "journal/2022-08-01.md",
-    "Untitled.md"
+    "journal/2022-08-15.md"
   ]
 }
