@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-08-23.md",
+            "file": "ovgu-project/202208180907.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-08-23.md",
+                "file": "ovgu-project/202208180907.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +95,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cebc8b5aed9fa90e",
+  "active": "08f81d907ee38ad6",
   "lastOpenFiles": [
+    "journal/2022-08-23.md",
     "journal/2022-08-19.md",
     "journal/2022-08-05.md",
     "journal/2022-08-08.md",
@@ -105,7 +106,6 @@
     "journal/2022-08-18.md",
     "journal/2022-08-02.md",
     "journal/2022-08-12.md",
-    "journal/2022-08-15.md",
-    "journal/2022-08-16.md"
+    "journal/2022-08-15.md"
   ]
 }

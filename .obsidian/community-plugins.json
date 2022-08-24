@@ -2,5 +2,6 @@
   "obsidian-day-planner",
   "obsidian-git",
   "obsidian-tasks-plugin",
-  "calendar"
+  "calendar",
+  "obsidian-mkdocs-publisher"
 ]
