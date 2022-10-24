@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-10-11.md",
+            "file": "ovgu-project/202210241238.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8b330e08bf084cc1",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-10-11.md",
+                "file": "ovgu-project/202210241238.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
   },
   "active": "08f81d907ee38ad6",
   "lastOpenFiles": [
+    "journal/2022-10-13.md",
+    "ovgu-project/202210241238.md",
+    "journal/2022-10-21.md",
+    "ovgu-project/202208180907.md",
+    "202210010817.md",
+    "journal/2022-10-11.md",
     "bf6c2c53.md",
     "c9c27797.md",
     "telefondaki-rastgelelik.md",
-    "index.md",
-    "202210010817.md",
-    "journal/2022-08-23.md",
-    "journal/2022-10-11.md",
-    "ovgu-project/202208180907.md",
-    "journal/2022-06-03.md",
-    "faq.md"
+    "index.md"
   ]
 }
