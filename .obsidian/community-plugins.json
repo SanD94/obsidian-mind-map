@@ -3,7 +3,7 @@
   "obsidian-git",
   "obsidian-tasks-plugin",
   "calendar",
-  "obsidian-mkdocs-publisher",
   "table-editor-obsidian",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-mkdocs-publisher"
 ]

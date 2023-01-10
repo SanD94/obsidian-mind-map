@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e45347b58280db6f",
+        "id": "14a6fdca533aae2d",
         "type": "tabs",
         "children": [
           {
-            "id": "2ad527602e7dc021",
+            "id": "5e36b49c4c2a9b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202210010817.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,17 +48,16 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202210010817.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +112,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -120,21 +120,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2ad527602e7dc021",
+  "active": "5e36b49c4c2a9b0a",
   "lastOpenFiles": [
+    "202209231143.md",
+    "index.md",
     "202210010817.md",
+    "202209241251.md",
+    "Untitled.md",
+    "w_of.jpeg",
     "ovgu-project/202210241238.md",
     "2c61e00c.md",
     "journal/2022-11-03.md",
-    "202211031336.md",
-    "journal/2022-10-13.md",
-    "journal/2022-10-21.md",
-    "ovgu-project/202208180907.md",
-    "journal/2022-10-11.md",
-    "bf6c2c53.md"
+    "202211031336.md"
   ]
 }
