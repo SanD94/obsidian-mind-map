@@ -5,5 +5,7 @@
   "calendar",
   "table-editor-obsidian",
   "obsidian-pandoc",
-  "obsidian-mkdocs-publisher"
+  "obsidian-mkdocs-publisher",
+  "obsidian-vimrc-support",
+  "obsidian-file-info-plugin"
 ]

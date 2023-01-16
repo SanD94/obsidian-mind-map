@@ -1,4 +1,6 @@
 {
   "baseFontSize": 16,
-  "accentColor": ""
+  "accentColor": "",
+  "monospaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Source Code Pro"
 }

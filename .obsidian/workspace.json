@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "14a6fdca533aae2d",
+        "id": "ee130065281b4913",
         "type": "tabs",
         "children": [
           {
-            "id": "5e36b49c4c2a9b0a",
+            "id": "fb4f38a7ed1d4260",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/6c94d620.md",
+                "file": "ovgu-project/202208180907.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff15aa577d7d1c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ovgu-project/202301161030.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "abstract",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/6c94d620.md",
+                "file": "ovgu-project/202301161030.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,16 +116,26 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "38483defde46e287",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-file-info-plugin:File Info Panel": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -124,17 +147,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5e36b49c4c2a9b0a",
+  "active": "ff15aa577d7d1c4f",
   "lastOpenFiles": [
+    "ovgu-project/Untitled.md",
+    "ovgu-project/202208180907.md",
+    "ovgu-project/202210241238.md",
+    "journal/2023-01-11.md",
+    "notes/6c94d620.md",
     "notes/07bf0ad8.md",
     "notes/09a1687f.md",
     "notes/9faf5294.md",
     "notes/26c27e62.md",
-    "notes/47b1c2ca.md",
-    "notes/61df41a1.md",
-    "notes/078cdfac.md",
-    "notes/81bb1f47.md",
-    "notes/99f81e19.md",
-    "notes/504d78a9.md"
+    "notes/47b1c2ca.md"
   ]
 }
