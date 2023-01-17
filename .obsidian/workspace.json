@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb4f38a7ed1d4260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ovgu-project/202208180907.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ff15aa577d7d1c4f",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,15 +136,15 @@
   },
   "active": "ff15aa577d7d1c4f",
   "lastOpenFiles": [
-    "ovgu-project/Untitled.md",
+    "ovgu-project/citation.bib.md",
     "ovgu-project/202208180907.md",
+    "ovgu-project/202301161030.md",
     "ovgu-project/202210241238.md",
     "journal/2023-01-11.md",
     "notes/6c94d620.md",
     "notes/07bf0ad8.md",
     "notes/09a1687f.md",
     "notes/9faf5294.md",
-    "notes/26c27e62.md",
-    "notes/47b1c2ca.md"
+    "notes/26c27e62.md"
   ]
 }
